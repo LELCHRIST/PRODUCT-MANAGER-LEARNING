@@ -1,7 +1,7 @@
 # PRODUCT-MANAGER-LEARNING
 ## 目录
 
-### 一.PM特质类
+### 一.[PM特质类](https://github.com/LELCHRIST/PRODUCT-MANAGER-LEARNING/blob/master/PM特质.md)
 ### 二.市场类
 ### 三.需求
 ### 四.产品设计
